@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1,Caracol HD
+http://69.190.179.5:9699/Caracol.hls
+
+#EXTINF:-1,RCN HD
+http://69.190.179.6:9699/RCN.hls
+
+#EXTINF:-1,TRO HD
+http://69.190.179.7:9699/TRO.hls
+
+#EXTINF:-1,RCN HD RTSP
+rtsp://69.190.179.6:969/main.hls
