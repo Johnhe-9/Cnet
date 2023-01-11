@@ -8,5 +8,5 @@ http://69.190.179.6:9699/RCN.hls
 #EXTINF:-1,TRO HD
 http://69.190.179.7:9699/TRO.hls
 
-#EXTINF:-1,RCN HD RTSP
-rtsp://69.190.179.6:969/main.hls
+#EXTINF:-1,RCN HD Prueba
+udp://@224.0.0.1:1234
