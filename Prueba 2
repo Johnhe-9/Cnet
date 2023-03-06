@@ -3,7 +3,7 @@
 http://69.190.179.5:9699/Caracol.rtmp
 
 #EXTINF:-1,RCN HD
-http://69.190.179.6:9699/RCN
+http://69.190.179.6:9699/RCN.rtmp
 
 #EXTINF:-1,TRO HD
-http://69.190.179.7:9699/TRO
+http://69.190.179.7:9699/TRO.rtmp
