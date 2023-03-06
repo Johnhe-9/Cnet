@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Caracol HD
-http://69.190.179.5:9699/Caracol.rtmp
+http://69.190.179.5:9699/Caracol.ts
 
 #EXTINF:-1,RCN HD
-http://69.190.179.6:9699/RCN.rtmp
+http://69.190.179.6:9699/RCN.ts
 
 #EXTINF:-1,TRO HD
-http://69.190.179.7:9699/TRO.rtmp
+http://69.190.179.7:9699/TRO.ts
